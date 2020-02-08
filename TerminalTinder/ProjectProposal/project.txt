@@ -1,0 +1,44 @@
+** Project name:
+
+Match Maker 
+
+
+
+** Project repository:
+
+MatchMaker
+
+
+
+** Team members:
+
+Alyssa Kelley
+Anne Glickenhaus
+
+
+
+** Description (1-3 paragraphs):
+
+In this project, we are going to be using C to create a match making terminal application. This is going to be prompting the terminal user to answer our pre-determined dating questionnaire. After completing this, our program with them cycle through our database of all dating participants to see if there are any potential matches. Our program will then output up to three matches (may be less depending on the user), with a short bio of each match, and their phone number. 
+
+
+
+** Implementation approach:
+
+We will have a data base of users in which each participant will have their own file (and/or we will have a master file with all of the answers for each match in this), with the answers to our dating questionnaire picked out. Each member will also have a photo of themselves that is saved in the database files. We are going to implement the search through File I/O, the questionnaire through terminal input/output, and then the matching might be conducted through queues, linked lists, or just a large array. 
+
+Our team will collaborate on each step of this project, and work together during its implementation. If we need to work on things separately, Anne will be in charge of the File I/O implementation and Alyssa will be in charge of the data structuring and matching with the questionnaire. 
+
+Week 5 = Proposal
+Week 6 = File I/O parsing completion of the pre-existing users and their filled out questionnaires. 
+Week 7 = Continue parsing the files, and implement a search that will get a comprehensive match for the current user.
+Week 8 = Solidify the data structure being used for the match, and also create the input/output questionnaire for new users.
+Week 9 = Save the input/output questionnaire as a new file, and also append to the master file.
+Week 10 (dead week) = Finalize the project, and tie up any loose ends.
+
+
+
+** Risk management plan (max 1 paragraph):
+
+No significant risks. Note: Each user will need to give their consent to their bio and phone number (and potentially photo) being distributed to all matches they make in the future. If they do not consent, then they do not get to participate. 
+

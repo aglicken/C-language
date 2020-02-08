@@ -1,0 +1,7 @@
+CIS 330 - Project
+Match Maker
+
+Anne Glickenhause and Alyssa Kelley 
+Week 6
+
+During week 6 we worked on getting a basic structure laid out in the header file for our project. Our currently implementation is using the queue data structure to store users names and their corresponding data. We did create a basis for our questionnaire to continue to grow from. Our next steps are going to determine criteria for what constitutes as a match between two participants. The files creates this week are projstart.c, projstart.h, and projstartinput.txt.

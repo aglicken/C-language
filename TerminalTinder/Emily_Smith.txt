@@ -1,0 +1,45 @@
+First name:
+Emily
+
+Last name:
+Smith
+
+Age:
+1 - 18-23
+
+Gender:
+2 - Female
+
+Email address:
+terminal.tinder@gmail.com
+
+Q1: What is your preferred age range for your match?
+1 - 18-23
+
+Q2: What is your preferred gender for your match?
+1 - Male
+
+Q3: Out of the following, which is your animal preference?
+2 - Dogs
+
+Q4: Out of the following, which is your food preference?
+3 - Asian Food
+
+Q5: Out of the following, which is your wake-up time preference?
+1 - 5-7am
+
+Q6: Out of the following, which is your favorite season?
+2 - Winter
+
+Q7: Out of the following, which location do you want to travel to the most?
+1 - Europe
+
+Q8: Out of the following, which is your favorite subject?
+2 - Science
+
+Q9: Out of the following, which is your political standing?
+1 - Democratic
+
+Q10: Out of the following, which are you hoping for with your match?
+2 - I am looking for a friend.
+

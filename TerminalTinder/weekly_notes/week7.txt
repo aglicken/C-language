@@ -1,0 +1,14 @@
+Week 7 Wrap Up - MatchMaker - Alyssa Kelley & Anne Glickenhause
+
+This week we focused on creating the Makefile for our application which will run the main c file that prompts the users for their input and creates their personalized match. We are going to implement a 2D array to keep track of the memory needed for the database for our users and have easy access. 
+
+We created a python script that uses turtle graphics to pop up a window to display falling hearts once a match is made, and then to print out a heart with the names of those who matched together with a success message at the top of the window. The pictures used for the falling hearts display are in their own folder on our repo titled hearts_gif.
+
+A problem that we encountered was how to have the c file and the python file to communicate with one another so the python turtle graphics can print the two names of the matched users. We got around this by having our c file saved the matched users as environment variables and then we would pass in those environment variables when running the python script. Since we made a Makefile, we have the variables passed in directly and will only need to call this Makefile to have the C and PY files communicate.
+
+Another problem we encountered was the specific math/angle calculations needed to create a perfect heart for our turtle graphics. We found this YouTube video which gives the angles needed to create a nice looking heart (https://www.youtube.com/watch?v=2STVF2vCx2c) but when we tried to resize it, the heart loses its nice shape.
+
+A third issue we have encounter is the speed of the heart drawing. Even though we have the speed set to be "fastest" aka level 10, it still takes a long time because there is a for loop going to 200 so even though this is set as fastest, it is still running slow. We need to work on this moving forward. 
+
+Another idea we came up with while working on this weeks portion is to include a song snip bit to reflect a song based on if they get a match or not. For instance, if they get a match, it could play "Love Shack Baby" and if they don't, it could play "I am so lonely". This is currently implemented for the heart.py match program.
+

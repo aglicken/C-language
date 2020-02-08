@@ -1,0 +1,11 @@
+Week 8 Wrap Up - Terminal Tinder - Alyssa Kelley & Anne Glickenhause
+
+This week we decided to change the name of our project to "Terminal Tinder" since it is a match maker that you can do within the terminal. 
+
+We created the initial c program to ask the user their questions and save their information. We implemented a color to the terminal which changes in the order of Green, Blue then Cyan for the questions and prints a character string line separator in magenta. We sourced the website that helped us learn about this color implementation at the top of our questionnaire.h file.
+
+As we did in week 7, we created a python script to display a gif of someone crying if the did not get a match. This is done using turtle graphics and loops through the gif 5 times before ending in an image indicting no match was made, and these images play through while the song "I am so lonely" plays in the background until you exit out of the picture. The resources used for this program to run are in the crying_gif folder and the songs folder which are both on our Bitbucket too.
+
+We also changed our minds on the data structure going to be used for the matching. We originally thought this would be done as a Queue, but then we think making a big database file with just the first and last name of each member, then opening this one file and going line by line to create the file name to open and compare for a match. You can read more about this idea in the terminal_tinder_summary.pdf we have up on here too.
+
+Next week we are planning on finalizing the ability to make the matches, and then to finish the memory allocation errors in the questionnaire.c file and potentially separate that into two files (1 to ask the questions, and 1 to make the files).

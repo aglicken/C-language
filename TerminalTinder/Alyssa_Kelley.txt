@@ -1,0 +1,44 @@
+First name:
+Alyssa
+
+Last name:
+Kelley
+
+Age:
+21
+
+Gender:
+Female
+
+Email address:
+terminal.tinder@gmail.com
+
+Q1: What is your preferred age range for your match?
+2 - 24-29
+
+Q2: What is your preferred gender for your match?
+1 - Male
+
+Q3: Out of the following, which is your animal preference?
+2 - Dogs
+
+Q4: Out of the following, which is your food preference?
+4 - American Food
+
+Q5: Out of the following, which is your wake-up time preference?
+2 - 8-10am
+
+Q6: Out of the following, which is your favorite season?
+1 - Fall
+
+Q7: Out of the following, which location do you want to travel to the most?
+1 - Europe
+
+Q8: Out of the following, which is your favorite subject?
+2 - Science
+
+Q9: Out of the following, which is your political standing?
+1 - Democratic
+
+Q10: Out of the following, which are you hoping for with your match?
+1 - I am looking for someone to have fun with.

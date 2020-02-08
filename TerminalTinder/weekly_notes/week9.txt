@@ -1,0 +1,25 @@
+Week 9 - Alyssa Kelley & Anne Glickenhaus
+
+This week we separated questionnaire.c and questionnaire.h into 3 different files. This is used to help make this program more efficient so if we want to change the style of questions asked we could just do so with creating a different file and having both options. An example of this would be if we wanted to create a friendship only match maker, then we can still have the questionnaire file to ask the initial current user information, and then instead of ask_dating_questions.c being used, we would create a new file like ask_friendship_questions and this makes the program more universal. 
+
+Another change is adding dynamic memory to the questionnaire process. This allows our Person struct to keep track of everything to use later on. 
+
+We also renamed our python scripts to match_made.py and no_match_made.py to be more descriptive and professional looking. 
+
+One issue that we came across is for some reason using current_user -> last_name is not working in the make_files, we will need to figure out what is causing this since all the other struct information is being accessed successfully. 
+
+We struggles with a lot of memory issues this week which was very challenging to figure out and took nearly all week long to finally fix on Friday. 
+
+We created the call_python.c which inflicts the made_match.py file. This is really great because now the finals steps of completing our project should just be to get the match making accurate with Anne's file, and then have that end with an if/else statement or something to then call the call_python.c program.
+
+We also started out presentation powerpoint and it is on GoogleDocs and we are both working on it for the next two weeks before the presentation 3/15. 
+
+Specific meetings times we have had:
+
+Tuesday - 3/5 - 11:00am-2:30pm
+
+Thursday - 3/7 - 12-4pm
+
+Sunday - 3/10 - 10:30am-2:00pm
+
+

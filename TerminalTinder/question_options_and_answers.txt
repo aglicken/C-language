@@ -1,0 +1,83 @@
+
+Q1: What is your preferred age range for your match?
+
+	Option 1: 18-23
+	Option 2: 24-29
+	Option 3: 30-35
+	Option 4: 36-40
+	Option 5: 41-45
+
+
+Q2: What is your preferred gender for your match?
+
+	Option 1: Male
+	Option 2: Female
+
+
+Q3: Out of the following, which is your animal preference?
+
+	Option 1: Cats 
+	Option 2: Dogs 
+	Option 3: Reptiles/Aquatic 
+	Option 4: Birds 
+	Option 5: Other 
+
+Q4: Out of the following, which is your food preference?
+
+	Out of the following, which is your food preference?
+	Option 1: Mexican Food 
+	Option 2: Italian Food 
+	Option 3: Asian Food 
+	Option 4: American Food 
+	Option 5: French Food 
+
+Q5: Out of the following, which is your wake-up time preference?
+
+	Option 1: 5-7am 
+	Option 2: 8-10am 
+	Option 3: 10-12pm 
+	Option 4: After 12pm 
+	Option 5: No specific time. 
+
+Q6: Out of the following, which is your favorite season?
+
+	Option 1: Fall
+	Option 2: Winter
+	Option 3: Spring
+	Option 4: Summer
+	Option 5: I love them all.
+
+Q7: Out of the following, which location do you want to travel to the most?
+
+	Option 1: Europe 
+	Option 2: South America
+	Option 3: Africa 
+	Option 4: Asia
+	Option 5: I don't like to travel. 
+
+Q8: Out of the following, which is your favorite subject?
+
+	Option 1: Math 
+	Option 2: Science 
+	Option 3: History 
+	Option 4: English 
+	Option 5: Art 
+
+Q9: Out of the following, which is your political standing?
+
+	Option 1: Democratic 
+	Option 2: Republican 
+	Option 3: Neither 
+	Option 4: I hate politics 
+
+Q10: Out of the following, which are you hoping for with your match?
+
+	Option 1: I am looking for someone to have fun with.
+	Option 2: I am looking for a friend. 
+	Option 3: I am looking for someone to be in a relationship with. 
+	Option 4: I am looking for marriage. 
+	Option 5: I am not sure. 
+
+
+
+
